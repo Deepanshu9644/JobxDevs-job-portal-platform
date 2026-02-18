@@ -33,16 +33,13 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 1. **Node.js**: Make sure you have Node.js installed (preferably version 20 or higher).
-2. **MongoDB**: You need a MongoDB database. You can use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for a free cloud database.
+2. **MongoDB**: You need a MongoDB database.
 3. **Environment Variables**: The app uses several environment variables, so you need to set them up.
 4. **Cloudinary**: You also need a Cloudinary account for image storage
 
 ### Installation
 
 1. Clone the repo:
-   ```sh
-   git clone https://github.com/diwanshu009/JobxDevs.git
-   ```
 2. Install NPM packages:
    ```sh
    cd jobxdevs
@@ -83,8 +80,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Please give a star to the repository if you like it.
 
-## Contact
-
-Diwanshu - [GitHub](https://github.com/diwanshu009)
-
-Project Link: [https://github.com/diwanshu009/JobxDevs.git](https://github.com/diwanshu009/JobxDevs.git)
